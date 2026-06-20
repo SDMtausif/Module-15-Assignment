@@ -1,0 +1,1 @@
+<h1>Total Products: {{ $count }}</h1>
